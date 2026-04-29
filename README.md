@@ -3,7 +3,7 @@
 </h1>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Aixxn&color=blue)
-### A Full-Stack Software Engineer | Aspiring Agentic AI Engineer
+### Full-Stack Software Engineer | Aspiring Agentic AI Engineer
 
 <br>
 
