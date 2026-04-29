@@ -5,16 +5,6 @@
 
 ### A Full-Stack Software Engineer | Aspiring Agentic AI Engineer
 
-</div>
-<div align="center">
-  <a href="adrianazures6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/adrian-azures" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
 <br>
 
 <p align="center">
