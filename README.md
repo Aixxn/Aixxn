@@ -3,7 +3,7 @@
 </h1>
 
 
-### A Full-Stack Software Engineer | Aspiring Agentic Ai Engineer
+### A Full-Stack Software Engineer | Aspiring Agentic AI Engineer
 
 </div>
 <div align="center">
