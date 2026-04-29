@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,redis,nextjs,laravel,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,github,postman,figma" />
 </p>
 
 <hr>
