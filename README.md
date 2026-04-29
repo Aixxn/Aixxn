@@ -1,6 +1,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=yAixxn&color=blue)
-
+<div align="center">
 ### A Full-Stack Software Engineer | Aspiring Agentic Ai Engineer
+</div>
 <div align="center">
   <a href="adrianazures6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
